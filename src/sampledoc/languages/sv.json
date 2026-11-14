@@ -1,0 +1,209 @@
+{
+  "language": "sv",
+  "report": {
+    "title": "Kvartalsrapport",
+    "lead": "Teamet nådde alla mål för det andra kvartalet, och den nya versionen kom ut i tid.",
+    "sections": [
+      [
+        "Höjdpunkter",
+        [
+          "Kostnaderna höll sig under budget, och två nya partner anslöt sig till projektet.",
+          "Den nya versionen nådde fler människor på sin första vecka än den förra gjorde på en månad.",
+          "Supporten besvarade nio av tio frågor samma dag."
+        ]
+      ],
+      [
+        "Kostnader och budget",
+        [
+          "Utgifterna för programvara steg med de nya licenserna, medan resorna sjönk igen.",
+          "Hårdvaran byttes ut en gång, och supporten var stabil hela kvartalet.",
+          "Två servrar flyttade till den nya leverantören utan en enda dags avbrott."
+        ]
+      ],
+      [
+        "Nästa kvartal",
+        [
+          "Versionen i september är den sista som planeras i år.",
+          "Två tjänster är lediga i supporten och en i designen.",
+          "Kontoret flyttar i november, och budgeten för det är beslutad."
+        ]
+      ],
+      [
+        "Människorna",
+        [
+          "Sex personer arbetade med versionen, två av dem nya i år.",
+          "Semestervikariaten ordnades i april och höll hela sommaren.",
+          "Alla har gått den utbildning som den nya licensen kräver."
+        ]
+      ],
+      [
+        "Risker",
+        [
+          "Flytten i november är det enda datum som ingenting annat får skjuta framför sig.",
+          "En leverantör har ännu inte skrivit under de nya villkoren, och vi ligger på.",
+          "Kostnaden för drift stiger i januari om avtalet inte förnyas i förtid."
+        ]
+      ]
+    ],
+    "closing": "Nästa möte är i slutet av juli.",
+    "sheets": [
+      "Översikt",
+      "Kostnader"
+    ],
+    "item": "Post",
+    "total": "Totalt",
+    "periods": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Maj",
+      "Jun"
+    ],
+    "rows": [
+      "Programvara",
+      "Resor",
+      "Hårdvara",
+      "Marknadsföring",
+      "Support",
+      "Utbildning",
+      "Licenser",
+      "Drift",
+      "Evenemang",
+      "Kontor",
+      "Moln",
+      "Rekrytering",
+      "Juridik",
+      "Försäkring",
+      "Förtäring",
+      "Frakt",
+      "Annonsering",
+      "Konsulter",
+      "Underhåll",
+      "El och vatten",
+      "Utrustning",
+      "Prenumerationer",
+      "Telefoni",
+      "Internet",
+      "Säkerhet",
+      "Säkerhetskopior",
+      "Domäner",
+      "Certifikat",
+      "Tryck",
+      "Kontorsmaterial",
+      "Porto",
+      "Städning",
+      "Reparationer",
+      "Möbler",
+      "Lager",
+      "Bankavgifter",
+      "Medlemskap",
+      "Konferenser",
+      "Översättning",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Projektplan",
+        [
+          "Mål för kvartalet",
+          "Budget och kostnader",
+          "Nästa steg"
+        ]
+      ],
+      [
+        "Tidsplan",
+        [
+          "Version i juni",
+          "Genomgång i juli",
+          "Planering i augusti"
+        ]
+      ],
+      [
+        "Team",
+        [
+          "Två nya partner",
+          "Support på tre språk",
+          "Utbildning i höst"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Tjänsteavtal",
+    "lead": "Detta avtal ingås mellan de två parter som anges nedan.",
+    "clauses": [
+      "Leverantören tillhandahåller den programvara som beskrivs i bilagan i ett år.",
+      "Betalning ska ske inom trettio dagar från varje faktura.",
+      "Vardera parten kan säga upp avtalet med tre månaders varsel.",
+      "Ändringar av detta avtal gäller endast skriftligen.",
+      "Leverantören håller tjänsten tillgänglig på vardagar.",
+      "Båda parter behandlar det de får veta om varandra som konfidentiellt.",
+      "Österrikisk rätt tillämpas, och domstolen i Wien är behörig.",
+      "Leverantören sparar en säkerhetskopia av kundens data i trettio dagar.",
+      "Supportärenden besvaras inom en arbetsdag.",
+      "Kunden utser en person som får godkänna ändringar.",
+      "Priserna gäller det första året och ses över varje höst.",
+      "Ingen part får överlåta detta avtal till tredje part utan samtycke.",
+      "Bilagan anger vilken programvara som omfattas och från vilken version.",
+      "Detta avtal ersätter alla tidigare överenskommelser mellan parterna."
+    ]
+  },
+  "invoice": {
+    "number": "Faktura 2026-014",
+    "issued": "Utfärdad 12 juni 2026",
+    "due": "Betalas inom 30 dagar",
+    "billed_to": "Faktureras till",
+    "subtotal": "Delsumma",
+    "vat": "Moms 20 %",
+    "amount_due": "Att betala",
+    "thanks": "Tack för ditt förtroende.",
+    "quantity": "Antal",
+    "unit_price": "Á-pris"
+  },
+  "contacts": {
+    "headers": [
+      "Namn",
+      "Team",
+      "E-post",
+      "Telefon"
+    ],
+    "roles": [
+      "Design",
+      "Support",
+      "Försäljning",
+      "Utveckling"
+    ]
+  },
+  "files": {
+    "text": "Kvartalsrapport",
+    "sheet": "Budget",
+    "slides": "Projektplan",
+    "word": "Avtal",
+    "cells": "Försäljningssiffror",
+    "deck": "Teamdag",
+    "paper": "Faktura",
+    "rows": "Kontakter",
+    "notes": "Anteckningar"
+  },
+  "fillers": {
+    "meeting": "Mötesanteckningar",
+    "letter": "Brev till hyresvärden",
+    "travel": "Resplan",
+    "reading": "Läslista",
+    "household": "Hushållsbudget",
+    "hours": "Arbetstider",
+    "stocktake": "Inventering",
+    "kickoff": "Uppstart",
+    "course": "Kursbilder",
+    "lease": "Hyresavtal",
+    "resume": "CV",
+    "application": "Ansökan",
+    "expenses": "Utgifter",
+    "inventory": "Lagerlista",
+    "review": "Kvartalsgenomgång",
+    "ticket": "Biljett",
+    "warranty": "Garanti",
+    "manual": "Bruksanvisning"
+  }
+}

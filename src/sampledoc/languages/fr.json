@@ -1,0 +1,209 @@
+{
+  "language": "fr",
+  "report": {
+    "title": "Rapport trimestriel",
+    "lead": "L'équipe a atteint tous les objectifs du deuxième trimestre et la nouvelle version est sortie à temps.",
+    "sections": [
+      [
+        "Points forts",
+        [
+          "Les coûts sont restés dans le budget et deux nouveaux partenaires ont rejoint le projet.",
+          "La nouvelle version a touché plus de monde en une semaine que la précédente en un mois.",
+          "Le support a répondu à neuf demandes sur dix le jour même."
+        ]
+      ],
+      [
+        "Coûts et budget",
+        [
+          "Les dépenses en logiciels ont augmenté avec les nouvelles licences, tandis que les déplacements ont encore baissé.",
+          "Le matériel a été remplacé une fois et le support est resté stable sur le trimestre.",
+          "Deux serveurs ont migré vers le nouveau prestataire sans la moindre interruption de service."
+        ]
+      ],
+      [
+        "Trimestre prochain",
+        [
+          "La version de septembre est la dernière prévue cette année.",
+          "Deux postes sont ouverts au support, un au design.",
+          "Le déménagement est prévu en novembre, et le budget est validé."
+        ]
+      ],
+      [
+        "Les personnes",
+        [
+          "Six personnes ont travaillé sur la version, dont deux arrivées cette année.",
+          "Les remplacements pour les congés ont été organisés en avril et ont tenu tout l'été.",
+          "Tout le monde a suivi la formation qu'exige la nouvelle licence."
+        ]
+      ],
+      [
+        "Risques",
+        [
+          "Le déménagement de novembre est la seule date qui ne peut pas bouger.",
+          "Un prestataire n'a pas encore signé les nouvelles conditions.",
+          "Le coût de l'hébergement augmente en janvier sans renouvellement anticipé."
+        ]
+      ]
+    ],
+    "closing": "La prochaine réunion aura lieu fin juillet.",
+    "sheets": [
+      "Aperçu",
+      "Coûts"
+    ],
+    "item": "Poste",
+    "total": "Total",
+    "periods": [
+      "Janv.",
+      "Févr.",
+      "Mars",
+      "Avr.",
+      "Mai",
+      "Juin"
+    ],
+    "rows": [
+      "Logiciels",
+      "Déplacements",
+      "Matériel",
+      "Marketing",
+      "Support",
+      "Formation",
+      "Licences",
+      "Hébergement",
+      "Événements",
+      "Bureau",
+      "Cloud",
+      "Recrutement",
+      "Juridique",
+      "Assurance",
+      "Traiteur",
+      "Expédition",
+      "Publicité",
+      "Conseil",
+      "Maintenance",
+      "Charges",
+      "Équipement",
+      "Abonnements",
+      "Téléphonie",
+      "Internet",
+      "Sécurité",
+      "Sauvegardes",
+      "Domaines",
+      "Certificats",
+      "Impression",
+      "Fournitures",
+      "Affranchissement",
+      "Nettoyage",
+      "Réparations",
+      "Mobilier",
+      "Stockage",
+      "Frais bancaires",
+      "Cotisations",
+      "Conférences",
+      "Traduction",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Plan du projet",
+        [
+          "Objectifs du trimestre",
+          "Budget et coûts",
+          "Prochaines étapes"
+        ]
+      ],
+      [
+        "Calendrier",
+        [
+          "Version en juin",
+          "Bilan en juillet",
+          "Planification en août"
+        ]
+      ],
+      [
+        "Équipe",
+        [
+          "Deux nouveaux partenaires",
+          "Support en trois langues",
+          "Formation à l'automne"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Contrat de service",
+    "lead": "Ce contrat est conclu entre les deux parties désignées ci-dessous.",
+    "clauses": [
+      "Le prestataire fournit le logiciel décrit en annexe pendant un an.",
+      "Le paiement est dû dans les trente jours suivant chaque facture.",
+      "Chaque partie peut résilier le contrat avec un préavis de trois mois.",
+      "Toute modification n'est valable que par écrit.",
+      "Le prestataire maintient le service disponible les jours ouvrés.",
+      "Chaque partie traite comme confidentiel ce qu'elle apprend de l'autre.",
+      "Le droit autrichien s'applique et le tribunal de Vienne est compétent.",
+      "Le prestataire conserve une sauvegarde des données du client pendant trente jours.",
+      "Les demandes de support reçoivent une réponse sous un jour ouvré.",
+      "Le client désigne une personne habilitée à approuver les modifications.",
+      "Les prix sont fermes la première année et revus chaque automne.",
+      "Aucune des parties ne peut céder ce contrat à un tiers sans accord.",
+      "L'annexe indique le logiciel couvert et la version à partir de laquelle la couverture s'applique.",
+      "Ce contrat remplace tout accord antérieur entre les parties."
+    ]
+  },
+  "invoice": {
+    "number": "Facture 2026-014",
+    "issued": "Émise le 12 juin 2026",
+    "due": "À régler sous 30 jours",
+    "billed_to": "Facturé à",
+    "subtotal": "Sous-total",
+    "vat": "TVA 20 %",
+    "amount_due": "Montant dû",
+    "thanks": "Merci de votre confiance.",
+    "quantity": "Qté",
+    "unit_price": "Prix unitaire"
+  },
+  "contacts": {
+    "headers": [
+      "Nom",
+      "Équipe",
+      "E-mail",
+      "Téléphone"
+    ],
+    "roles": [
+      "Design",
+      "Support",
+      "Ventes",
+      "Développement"
+    ]
+  },
+  "files": {
+    "text": "Rapport trimestriel",
+    "sheet": "Budget",
+    "slides": "Plan du projet",
+    "word": "Contrat",
+    "cells": "Chiffres des ventes",
+    "deck": "Réunion d'équipe",
+    "paper": "Facture",
+    "rows": "Contacts",
+    "notes": "Notes"
+  },
+  "fillers": {
+    "meeting": "Notes de réunion",
+    "letter": "Lettre au propriétaire",
+    "travel": "Itinéraire",
+    "reading": "Liste de lecture",
+    "household": "Budget familial",
+    "hours": "Heures",
+    "stocktake": "Inventaire",
+    "kickoff": "Lancement",
+    "course": "Diapositives du cours",
+    "lease": "Bail",
+    "resume": "CV",
+    "application": "Candidature",
+    "expenses": "Dépenses",
+    "inventory": "Stock",
+    "review": "Bilan trimestriel",
+    "ticket": "Billet",
+    "warranty": "Garantie",
+    "manual": "Manuel"
+  }
+}

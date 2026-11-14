@@ -1,0 +1,209 @@
+{
+  "language": "it",
+  "report": {
+    "title": "Relazione trimestrale",
+    "lead": "Il team ha raggiunto tutti gli obiettivi del secondo trimestre e la nuova versione è uscita in tempo.",
+    "sections": [
+      [
+        "In evidenza",
+        [
+          "I costi sono rimasti sotto il budget e due nuovi partner si sono uniti al progetto.",
+          "La nuova versione ha raggiunto in una settimana più persone di quante ne avesse raggiunte la precedente in un mese.",
+          "Il supporto ha risposto a nove richieste su dieci in giornata."
+        ]
+      ],
+      [
+        "Costi e budget",
+        [
+          "La spesa per il software è cresciuta con le nuove licenze, mentre quella per i viaggi è di nuovo calata.",
+          "L'hardware è stato sostituito una volta e il supporto è rimasto stabile per tutto il trimestre.",
+          "Due server sono passati al nuovo fornitore senza un giorno di fermo."
+        ]
+      ],
+      [
+        "Prossimo trimestre",
+        [
+          "La versione di settembre è l'ultima prevista quest'anno.",
+          "Ci sono due posizioni aperte nel supporto e una nel design.",
+          "Il trasloco è a novembre e il budget è approvato."
+        ]
+      ],
+      [
+        "Le persone",
+        [
+          "Alla versione hanno lavorato sei persone, due delle quali nuove quest'anno.",
+          "Le sostituzioni estive sono state organizzate ad aprile e hanno retto.",
+          "Tutti hanno seguito il corso richiesto dalla nuova licenza."
+        ]
+      ],
+      [
+        "Rischi",
+        [
+          "Il trasloco di novembre è l'unica data che non può slittare.",
+          "Un fornitore non ha ancora firmato le nuove condizioni.",
+          "I costi di hosting aumentano a gennaio se il contratto non viene rinnovato in anticipo."
+        ]
+      ]
+    ],
+    "closing": "Il prossimo incontro è a fine luglio.",
+    "sheets": [
+      "Panoramica",
+      "Costi"
+    ],
+    "item": "Voce",
+    "total": "Totale",
+    "periods": [
+      "Gen",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Mag",
+      "Giu"
+    ],
+    "rows": [
+      "Software",
+      "Viaggi",
+      "Hardware",
+      "Marketing",
+      "Supporto",
+      "Formazione",
+      "Licenze",
+      "Hosting",
+      "Eventi",
+      "Ufficio",
+      "Cloud",
+      "Selezione",
+      "Legale",
+      "Assicurazione",
+      "Catering",
+      "Spedizioni",
+      "Pubblicità",
+      "Consulenza",
+      "Manutenzione",
+      "Utenze",
+      "Attrezzature",
+      "Abbonamenti",
+      "Telefonia",
+      "Internet",
+      "Sicurezza",
+      "Backup",
+      "Domini",
+      "Certificati",
+      "Stampa",
+      "Cancelleria",
+      "Affrancature",
+      "Pulizie",
+      "Riparazioni",
+      "Arredi",
+      "Archiviazione",
+      "Spese bancarie",
+      "Quote associative",
+      "Conferenze",
+      "Traduzioni",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Piano di progetto",
+        [
+          "Obiettivi del trimestre",
+          "Budget e costi",
+          "Prossimi passi"
+        ]
+      ],
+      [
+        "Calendario",
+        [
+          "Versione a giugno",
+          "Revisione a luglio",
+          "Pianificazione ad agosto"
+        ]
+      ],
+      [
+        "Team",
+        [
+          "Due nuovi partner",
+          "Supporto in tre lingue",
+          "Formazione in autunno"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Contratto di servizio",
+    "lead": "Il presente contratto è stipulato tra le due parti indicate di seguito.",
+    "clauses": [
+      "Il fornitore mette a disposizione per un anno il software descritto in allegato.",
+      "Il pagamento è dovuto entro trenta giorni da ogni fattura.",
+      "Ciascuna parte può recedere con un preavviso di tre mesi.",
+      "Le modifiche sono valide solo in forma scritta.",
+      "Il fornitore mantiene il servizio disponibile nei giorni lavorativi.",
+      "Le parti trattano come riservato quanto apprendono l'una dell'altra.",
+      "Si applica il diritto austriaco e il foro competente è Vienna.",
+      "Il fornitore conserva una copia dei dati del cliente per trenta giorni.",
+      "Le richieste di supporto ricevono risposta entro un giorno lavorativo.",
+      "Il cliente indica una persona autorizzata ad approvare le modifiche.",
+      "I prezzi restano fermi il primo anno e sono rivisti ogni autunno.",
+      "Nessuna parte può cedere il contratto a terzi senza consenso.",
+      "L'allegato elenca il software coperto e la versione di partenza.",
+      "Il presente contratto sostituisce ogni accordo precedente tra le parti."
+    ]
+  },
+  "invoice": {
+    "number": "Fattura 2026-014",
+    "issued": "Emessa il 12 giugno 2026",
+    "due": "Da saldare entro 30 giorni",
+    "billed_to": "Intestato a",
+    "subtotal": "Subtotale",
+    "vat": "IVA 20%",
+    "amount_due": "Importo dovuto",
+    "thanks": "Grazie per la collaborazione.",
+    "quantity": "Qtà",
+    "unit_price": "Prezzo unit."
+  },
+  "contacts": {
+    "headers": [
+      "Nome",
+      "Reparto",
+      "E-mail",
+      "Telefono"
+    ],
+    "roles": [
+      "Design",
+      "Supporto",
+      "Vendite",
+      "Sviluppo"
+    ]
+  },
+  "files": {
+    "text": "Relazione trimestrale",
+    "sheet": "Budget",
+    "slides": "Piano di progetto",
+    "word": "Contratto",
+    "cells": "Dati di vendita",
+    "deck": "Ritiro del team",
+    "paper": "Fattura",
+    "rows": "Contatti",
+    "notes": "Note"
+  },
+  "fillers": {
+    "meeting": "Note della riunione",
+    "letter": "Lettera al locatore",
+    "travel": "Piano di viaggio",
+    "reading": "Lista di lettura",
+    "household": "Bilancio familiare",
+    "hours": "Ore",
+    "stocktake": "Inventario",
+    "kickoff": "Avvio",
+    "course": "Diapositive del corso",
+    "lease": "Contratto d'affitto",
+    "resume": "Curriculum",
+    "application": "Candidatura",
+    "expenses": "Spese",
+    "inventory": "Magazzino",
+    "review": "Revisione trimestrale",
+    "ticket": "Biglietto",
+    "warranty": "Garanzia",
+    "manual": "Manuale"
+  }
+}

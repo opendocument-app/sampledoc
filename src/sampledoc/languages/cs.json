@@ -1,0 +1,209 @@
+{
+  "language": "cs",
+  "report": {
+    "title": "Čtvrtletní zpráva",
+    "lead": "Tým splnil všechny cíle druhého čtvrtletí a nová verze vyšla včas.",
+    "sections": [
+      [
+        "Nejdůležitější",
+        [
+          "Náklady zůstaly pod rozpočtem a k projektu se připojili dva noví partneři.",
+          "Nová verze oslovila za první týden více lidí než ta předchozí za měsíc.",
+          "Podpora odpověděla na devět z deseti dotazů týž den."
+        ]
+      ],
+      [
+        "Náklady a rozpočet",
+        [
+          "Výdaje za software s novými licencemi vzrostly, cestovné opět kleslo.",
+          "Hardware byl jednou vyměněn a podpora zůstala po celé čtvrtletí stabilní.",
+          "Dva servery přešly k novému poskytovateli bez jediného dne výpadku."
+        ]
+      ],
+      [
+        "Příští čtvrtletí",
+        [
+          "Zářijová verze je poslední plánovaná letos.",
+          "V podpoře jsou volná dvě místa, v designu jedno.",
+          "Stěhování kanceláře je v listopadu a rozpočet na ně je schválený."
+        ]
+      ],
+      [
+        "Lidé",
+        [
+          "Na verzi pracovalo šest lidí, dva z nich jsou tu první rok.",
+          "Zástupy na dobu dovolených se domluvily v dubnu a vydržely celé léto.",
+          "Všichni absolvovali školení, které nová licence vyžaduje."
+        ]
+      ],
+      [
+        "Rizika",
+        [
+          "Listopadové stěhování je jediný termín, který nelze posunout.",
+          "Jeden dodavatel dosud nepodepsal nové podmínky a urgujeme ho.",
+          "Náklady na hosting v lednu vzrostou, pokud se smlouva neobnoví dříve."
+        ]
+      ]
+    ],
+    "closing": "Další schůzka je na konci července.",
+    "sheets": [
+      "Přehled",
+      "Náklady"
+    ],
+    "item": "Položka",
+    "total": "Celkem",
+    "periods": [
+      "Led",
+      "Úno",
+      "Bře",
+      "Dub",
+      "Kvě",
+      "Čvn"
+    ],
+    "rows": [
+      "Software",
+      "Cestovné",
+      "Hardware",
+      "Marketing",
+      "Podpora",
+      "Školení",
+      "Licence",
+      "Hosting",
+      "Akce",
+      "Kancelář",
+      "Cloud",
+      "Nábor",
+      "Právní služby",
+      "Pojištění",
+      "Občerstvení",
+      "Doprava",
+      "Reklama",
+      "Poradenství",
+      "Údržba",
+      "Energie",
+      "Vybavení",
+      "Předplatné",
+      "Telefonie",
+      "Internet",
+      "Bezpečnost",
+      "Zálohování",
+      "Domény",
+      "Certifikáty",
+      "Tisk",
+      "Papírnictví",
+      "Poštovné",
+      "Úklid",
+      "Opravy",
+      "Nábytek",
+      "Sklad",
+      "Bankovní poplatky",
+      "Členské příspěvky",
+      "Konference",
+      "Překlady",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Plán projektu",
+        [
+          "Cíle čtvrtletí",
+          "Rozpočet a náklady",
+          "Další kroky"
+        ]
+      ],
+      [
+        "Harmonogram",
+        [
+          "Verze v červnu",
+          "Hodnocení v červenci",
+          "Plánování v srpnu"
+        ]
+      ],
+      [
+        "Tým",
+        [
+          "Dva noví partneři",
+          "Podpora ve třech jazycích",
+          "Školení na podzim"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Smlouva o poskytování služeb",
+    "lead": "Tato smlouva se uzavírá mezi oběma níže uvedenými stranami.",
+    "clauses": [
+      "Dodavatel poskytuje software popsaný v příloze po dobu jednoho roku.",
+      "Platba je splatná do třiceti dnů od vystavení každé faktury.",
+      "Kterákoli strana může smlouvu ukončit s tříměsíční výpovědní lhůtou.",
+      "Změny této smlouvy jsou platné pouze písemně.",
+      "Dodavatel udržuje službu dostupnou v pracovní dny.",
+      "Obě strany zachovávají mlčenlivost o tom, co se o sobě dozvědí.",
+      "Řídí se rakouským právem; místně příslušný je soud ve Vídni.",
+      "Dodavatel uchovává zálohu dat zákazníka po dobu třiceti dnů.",
+      "Požadavky na podporu jsou zodpovězeny do jednoho pracovního dne.",
+      "Zákazník určí jednu osobu, která smí schvalovat změny.",
+      "Ceny platí první rok a každý podzim se přehodnocují.",
+      "Žádná strana nesmí smlouvu bez souhlasu postoupit třetí straně.",
+      "Příloha uvádí zahrnutý software a verzi, od které platí.",
+      "Tato smlouva nahrazuje všechna dřívější ujednání mezi stranami."
+    ]
+  },
+  "invoice": {
+    "number": "Faktura 2026-014",
+    "issued": "Vystaveno 12. června 2026",
+    "due": "Splatnost do 30 dnů",
+    "billed_to": "Odběratel",
+    "subtotal": "Mezisoučet",
+    "vat": "DPH 20 %",
+    "amount_due": "K úhradě",
+    "thanks": "Děkujeme za spolupráci.",
+    "quantity": "Množ.",
+    "unit_price": "Cena za ks"
+  },
+  "contacts": {
+    "headers": [
+      "Jméno a příjmení",
+      "Tým",
+      "E-mail",
+      "Telefon"
+    ],
+    "roles": [
+      "Design",
+      "Podpora",
+      "Prodej",
+      "Vývoj"
+    ]
+  },
+  "files": {
+    "text": "Čtvrtletní zpráva",
+    "sheet": "Rozpočet",
+    "slides": "Plán projektu",
+    "word": "Smlouva",
+    "cells": "Čísla prodejů",
+    "deck": "Setkání týmu",
+    "paper": "Faktura",
+    "rows": "Kontakty",
+    "notes": "Poznámky"
+  },
+  "fillers": {
+    "meeting": "Zápis z porady",
+    "letter": "Dopis pronajímateli",
+    "travel": "Plán cesty",
+    "reading": "Seznam ke čtení",
+    "household": "Rodinný rozpočet",
+    "hours": "Odpracované hodiny",
+    "stocktake": "Inventura",
+    "kickoff": "Zahájení projektu",
+    "course": "Slidy ke kurzu",
+    "lease": "Nájemní smlouva",
+    "resume": "Životopis",
+    "application": "Přihláška",
+    "expenses": "Výdaje",
+    "inventory": "Zásoby",
+    "review": "Čtvrtletní hodnocení",
+    "ticket": "Jízdenka",
+    "warranty": "Záruka",
+    "manual": "Návod"
+  }
+}

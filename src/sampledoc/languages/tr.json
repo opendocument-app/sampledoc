@@ -1,0 +1,209 @@
+{
+  "language": "tr",
+  "report": {
+    "title": "Üç aylık rapor",
+    "lead": "Ekip ikinci çeyreğin tüm hedeflerine ulaştı ve yeni sürüm zamanında yayınlandı.",
+    "sections": [
+      [
+        "Öne çıkanlar",
+        [
+          "Maliyetler bütçenin altında kaldı ve projeye iki yeni ortak katıldı.",
+          "Yeni sürüm ilk haftasında, öncekinin bir ayda ulaştığından daha fazla kişiye ulaştı.",
+          "Destek, on sorudan dokuzunu aynı gün yanıtladı."
+        ]
+      ],
+      [
+        "Maliyetler ve bütçe",
+        [
+          "Yeni lisanslarla yazılım harcamaları arttı, seyahat giderleri yeniden düştü.",
+          "Donanım bir kez yenilendi ve destek çeyrek boyunca istikrarlı kaldı.",
+          "İki sunucu, bir gün bile kesinti olmadan yeni sağlayıcıya taşındı."
+        ]
+      ],
+      [
+        "Gelecek çeyrek",
+        [
+          "Eylüldeki sürüm bu yıl planlanan son sürüm.",
+          "Destekte iki, tasarımda bir pozisyon açık.",
+          "Ofis taşınması kasımda ve bütçesi onaylandı."
+        ]
+      ],
+      [
+        "Ekip",
+        [
+          "Sürüm üzerinde altı kişi çalıştı, ikisi bu yıl katıldı.",
+          "İzin dönemi vekaletleri nisanda belirlendi ve yaz boyunca sorunsuz işledi.",
+          "Herkes yeni lisansın gerektirdiği eğitimi tamamladı."
+        ]
+      ],
+      [
+        "Riskler",
+        [
+          "Kasımdaki taşınma, ertelenemeyecek tek tarih.",
+          "Bir tedarikçi yeni koşulları henüz imzalamadı, takibi sürüyor.",
+          "Sözleşme erken yenilenmezse barındırma maliyeti ocakta artacak."
+        ]
+      ]
+    ],
+    "closing": "Bir sonraki toplantı temmuz sonunda.",
+    "sheets": [
+      "Genel bakış",
+      "Maliyetler"
+    ],
+    "item": "Kalem",
+    "total": "Toplam",
+    "periods": [
+      "Oca",
+      "Şub",
+      "Mar",
+      "Nis",
+      "May",
+      "Haz"
+    ],
+    "rows": [
+      "Yazılım",
+      "Seyahat",
+      "Donanım",
+      "Pazarlama",
+      "Destek",
+      "Eğitim",
+      "Lisanslar",
+      "Barındırma",
+      "Etkinlikler",
+      "Ofis",
+      "Bulut",
+      "İşe alım",
+      "Hukuk",
+      "Sigorta",
+      "İkram",
+      "Kargo",
+      "Reklam",
+      "Danışmanlık",
+      "Bakım",
+      "Faturalar",
+      "Ekipman",
+      "Abonelikler",
+      "Telefon",
+      "İnternet",
+      "Güvenlik",
+      "Yedekleme",
+      "Alan adları",
+      "Sertifikalar",
+      "Baskı",
+      "Kırtasiye",
+      "Posta",
+      "Temizlik",
+      "Onarım",
+      "Mobilya",
+      "Depolama",
+      "Banka masrafları",
+      "Üyelikler",
+      "Konferanslar",
+      "Çeviri",
+      "Tasarım"
+    ],
+    "slides": [
+      [
+        "Proje planı",
+        [
+          "Çeyrek hedefleri",
+          "Bütçe ve maliyetler",
+          "Sonraki adımlar"
+        ]
+      ],
+      [
+        "Takvim",
+        [
+          "Haziranda sürüm",
+          "Temmuzda değerlendirme",
+          "Ağustosta planlama"
+        ]
+      ],
+      [
+        "Ekip",
+        [
+          "İki yeni ortak",
+          "Üç dilde destek",
+          "Sonbaharda eğitim"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Hizmet sözleşmesi",
+    "lead": "Bu sözleşme aşağıda belirtilen iki taraf arasında yapılmıştır.",
+    "clauses": [
+      "Tedarikçi, ekte tanımlanan yazılımı bir yıl boyunca sağlar.",
+      "Ödeme, her faturadan sonra otuz gün içinde yapılır.",
+      "Taraflardan biri sözleşmeyi üç ay önceden bildirerek sonlandırabilir.",
+      "Değişiklikler yalnızca yazılı olarak geçerlidir.",
+      "Tedarikçi hizmeti iş günlerinde erişilebilir tutar.",
+      "Taraflar birbirleri hakkında öğrendiklerini gizli tutar.",
+      "Avusturya hukuku uygulanır ve yetkili mahkeme Viyana'dır.",
+      "Tedarikçi, müşterinin verilerinin yedeğini otuz gün saklar.",
+      "Destek talepleri bir iş günü içinde yanıtlanır.",
+      "Müşteri, değişiklikleri onaylayabilecek bir kişi belirler.",
+      "Fiyatlar ilk yıl sabittir ve her sonbahar gözden geçirilir.",
+      "Hiçbir taraf sözleşmeyi onay almadan üçüncü kişiye devredemez.",
+      "Ek, kapsanan yazılımı ve geçerli olduğu sürümü listeler.",
+      "Bu sözleşme, taraflar arasındaki önceki tüm düzenlemelerin yerine geçer."
+    ]
+  },
+  "invoice": {
+    "number": "Fatura 2026-014",
+    "issued": "12 Haziran 2026 tarihli",
+    "due": "30 gün içinde ödenir",
+    "billed_to": "Alıcı",
+    "subtotal": "Ara toplam",
+    "vat": "KDV %20",
+    "amount_due": "Ödenecek tutar",
+    "thanks": "İş birliğiniz için teşekkürler.",
+    "quantity": "Adet",
+    "unit_price": "Birim fiyat"
+  },
+  "contacts": {
+    "headers": [
+      "Ad Soyad",
+      "Ekip",
+      "E-posta",
+      "Telefon"
+    ],
+    "roles": [
+      "Tasarım",
+      "Destek",
+      "Satış",
+      "Geliştirme"
+    ]
+  },
+  "files": {
+    "text": "Üç aylık rapor",
+    "sheet": "Bütçe",
+    "slides": "Proje planı",
+    "word": "Sözleşme",
+    "cells": "Satış rakamları",
+    "deck": "Ekip çalıştayı",
+    "paper": "Fatura",
+    "rows": "Kişiler",
+    "notes": "Notlar"
+  },
+  "fillers": {
+    "meeting": "Toplantı notları",
+    "letter": "Ev sahibine mektup",
+    "travel": "Seyahat planı",
+    "reading": "Okuma listesi",
+    "household": "Ev bütçesi",
+    "hours": "Çalışma saatleri",
+    "stocktake": "Sayım",
+    "kickoff": "Proje başlangıcı",
+    "course": "Kurs slaytları",
+    "lease": "Kira sözleşmesi",
+    "resume": "Özgeçmiş",
+    "application": "Başvuru",
+    "expenses": "Giderler",
+    "inventory": "Envanter",
+    "review": "Üç aylık değerlendirme",
+    "ticket": "Bilet",
+    "warranty": "Garanti",
+    "manual": "Kılavuz"
+  }
+}

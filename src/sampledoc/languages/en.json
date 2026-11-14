@@ -1,0 +1,209 @@
+{
+  "language": "en",
+  "report": {
+    "title": "Quarterly report",
+    "lead": "The team met every goal of the second quarter, and the new release went out on time.",
+    "sections": [
+      [
+        "Highlights",
+        [
+          "Costs stayed below budget, and two new partners joined the project.",
+          "The new release reached more people in its first week than the last one did in a month.",
+          "Support answered nine of ten questions the same day."
+        ]
+      ],
+      [
+        "Costs and budget",
+        [
+          "Spending on software rose with the new licences, while travel fell again.",
+          "Hardware was replaced once, and support stayed steady through the quarter.",
+          "Two servers moved to the new provider without a day of downtime."
+        ]
+      ],
+      [
+        "Next quarter",
+        [
+          "The release in September is the last one planned this year.",
+          "Two positions open in support, and one in design.",
+          "The office moves in November, and the budget for it is agreed."
+        ]
+      ],
+      [
+        "The people",
+        [
+          "Six people worked on the release, two of them new this year.",
+          "Holiday cover was arranged in April and held through the summer.",
+          "Everyone has taken the training the new licence requires."
+        ]
+      ],
+      [
+        "Risks",
+        [
+          "The move in November is the one date nothing else can slip past.",
+          "One supplier has not signed the new terms, and is being chased.",
+          "Hosting costs rise in January unless the contract is renewed early."
+        ]
+      ]
+    ],
+    "closing": "The next meeting is at the end of July.",
+    "sheets": [
+      "Overview",
+      "Costs"
+    ],
+    "item": "Item",
+    "total": "Total",
+    "periods": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "rows": [
+      "Software",
+      "Travel",
+      "Hardware",
+      "Marketing",
+      "Support",
+      "Training",
+      "Licences",
+      "Hosting",
+      "Events",
+      "Office",
+      "Cloud",
+      "Recruiting",
+      "Legal",
+      "Insurance",
+      "Catering",
+      "Shipping",
+      "Advertising",
+      "Consulting",
+      "Maintenance",
+      "Utilities",
+      "Equipment",
+      "Subscriptions",
+      "Telephony",
+      "Internet",
+      "Security",
+      "Backups",
+      "Domains",
+      "Certificates",
+      "Printing",
+      "Stationery",
+      "Postage",
+      "Cleaning",
+      "Repairs",
+      "Furniture",
+      "Storage",
+      "Bank fees",
+      "Memberships",
+      "Conferences",
+      "Translation",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Project plan",
+        [
+          "Goals for the quarter",
+          "Budget and costs",
+          "Next steps"
+        ]
+      ],
+      [
+        "Schedule",
+        [
+          "Release in June",
+          "Review in July",
+          "Planning in August"
+        ]
+      ],
+      [
+        "Team",
+        [
+          "Two new partners",
+          "Support in three languages",
+          "Training in autumn"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Service agreement",
+    "lead": "This agreement is made between the two parties named below.",
+    "clauses": [
+      "The supplier provides the software described in the appendix for one year.",
+      "Payment is due within thirty days of each invoice.",
+      "Either party may end this agreement with three months' notice.",
+      "Changes to this agreement are valid only in writing.",
+      "The supplier keeps the service available on working days.",
+      "Both parties treat what they learn of each other as confidential.",
+      "Austrian law applies, and the court of Vienna has jurisdiction.",
+      "The supplier keeps a backup of the customer's data for thirty days.",
+      "Support requests are answered within one working day.",
+      "The customer names one person who may approve changes.",
+      "Prices hold for the first year and are reviewed each autumn.",
+      "Neither party may pass this agreement to a third party without consent.",
+      "The appendix lists the software covered and the version it starts at.",
+      "This agreement replaces every earlier arrangement between the parties."
+    ]
+  },
+  "invoice": {
+    "number": "Invoice 2026-014",
+    "issued": "Issued 12 June 2026",
+    "due": "Due within 30 days",
+    "billed_to": "Billed to",
+    "subtotal": "Subtotal",
+    "vat": "VAT 20%",
+    "amount_due": "Amount due",
+    "thanks": "Thank you for your business.",
+    "quantity": "Qty",
+    "unit_price": "Unit price"
+  },
+  "contacts": {
+    "headers": [
+      "Name",
+      "Team",
+      "Email",
+      "Phone"
+    ],
+    "roles": [
+      "Design",
+      "Support",
+      "Sales",
+      "Engineering"
+    ]
+  },
+  "files": {
+    "text": "Quarterly report",
+    "sheet": "Budget",
+    "slides": "Project plan",
+    "word": "Contract",
+    "cells": "Sales figures",
+    "deck": "Team offsite",
+    "paper": "Invoice",
+    "rows": "Contacts",
+    "notes": "Notes"
+  },
+  "fillers": {
+    "meeting": "Meeting notes",
+    "letter": "Letter to the landlord",
+    "travel": "Travel plan",
+    "reading": "Reading list",
+    "household": "Household budget",
+    "hours": "Hours",
+    "stocktake": "Stocktake",
+    "kickoff": "Kickoff",
+    "course": "Course slides",
+    "lease": "Lease",
+    "resume": "CV",
+    "application": "Application",
+    "expenses": "Expenses",
+    "inventory": "Inventory",
+    "review": "Quarterly review",
+    "ticket": "Ticket",
+    "warranty": "Warranty",
+    "manual": "Manual"
+  }
+}

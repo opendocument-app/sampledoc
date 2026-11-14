@@ -1,0 +1,209 @@
+{
+  "language": "et",
+  "report": {
+    "title": "Kvartaliaruanne",
+    "lead": "Meeskond täitis teise kvartali kõik eesmärgid ja uus versioon ilmus õigeks ajaks.",
+    "sections": [
+      [
+        "Peamine",
+        [
+          "Kulud püsisid eelarve piires ja projektiga liitus kaks uut partnerit.",
+          "Uus versioon jõudis esimese nädalaga rohkemate inimesteni kui eelmine kuuga.",
+          "Kasutajatugi vastas üheksale küsimusele kümnest samal päeval."
+        ]
+      ],
+      [
+        "Kulud ja eelarve",
+        [
+          "Tarkvarakulud kasvasid uute litsentsidega, lähetuskulud vähenesid taas.",
+          "Riistvara vahetati korra välja ja tugi püsis kogu kvartali ühtlasena.",
+          "Kaks serverit kolisid uue teenusepakkuja juurde ilma ainsagi katkestuseta."
+        ]
+      ],
+      [
+        "Järgmine kvartal",
+        [
+          "Septembri versioon on selle aasta viimane plaanitud versioon.",
+          "Toes on täitmata kaks kohta ja disainis üks.",
+          "Kontor kolib novembris ja selle eelarve on kokku lepitud."
+        ]
+      ],
+      [
+        "Inimesed",
+        [
+          "Versiooni kallal töötas kuus inimest, kaks neist on siin esimest aastat.",
+          "Puhkuseasendused lepiti kokku aprillis ja need pidasid terve suve.",
+          "Kõik on läbinud koolituse, mida uus litsents nõuab."
+        ]
+      ],
+      [
+        "Riskid",
+        [
+          "Novembri kolimine on ainus kuupäev, mida edasi lükata ei saa.",
+          "Üks tarnija pole uusi tingimusi veel allkirjastanud ja talle tuletatakse meelde.",
+          "Majutuse hind tõuseb jaanuaris, kui lepingut varem ei pikendata."
+        ]
+      ]
+    ],
+    "closing": "Järgmine koosolek on juuli lõpus.",
+    "sheets": [
+      "Ülevaade",
+      "Kulud"
+    ],
+    "item": "Kirje",
+    "total": "Kokku",
+    "periods": [
+      "Jaan",
+      "Veebr",
+      "Märts",
+      "Apr",
+      "Mai",
+      "Juuni"
+    ],
+    "rows": [
+      "Tarkvara",
+      "Lähetused",
+      "Riistvara",
+      "Turundus",
+      "Kasutajatugi",
+      "Koolitus",
+      "Litsentsid",
+      "Majutus",
+      "Üritused",
+      "Kontor",
+      "Pilv",
+      "Värbamine",
+      "Õigusabi",
+      "Kindlustus",
+      "Toitlustus",
+      "Saatmine",
+      "Reklaam",
+      "Konsultatsioon",
+      "Hooldus",
+      "Kommunaalkulud",
+      "Seadmed",
+      "Tellimused",
+      "Telefon",
+      "Internet",
+      "Turvalisus",
+      "Varundus",
+      "Domeenid",
+      "Sertifikaadid",
+      "Trükkimine",
+      "Kontoritarbed",
+      "Postikulud",
+      "Koristus",
+      "Remont",
+      "Mööbel",
+      "Ladu",
+      "Pangateenused",
+      "Liikmemaksud",
+      "Konverentsid",
+      "Tõlge",
+      "Disain"
+    ],
+    "slides": [
+      [
+        "Projektiplaan",
+        [
+          "Kvartali eesmärgid",
+          "Eelarve ja kulud",
+          "Järgmised sammud"
+        ]
+      ],
+      [
+        "Ajakava",
+        [
+          "Versioon juunis",
+          "Ülevaatus juulis",
+          "Planeerimine augustis"
+        ]
+      ],
+      [
+        "Meeskond",
+        [
+          "Kaks uut partnerit",
+          "Tugi kolmes keeles",
+          "Koolitus sügisel"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Teenuse osutamise leping",
+    "lead": "Käesolev leping sõlmitakse allpool nimetatud kahe poole vahel.",
+    "clauses": [
+      "Tarnija annab lisas kirjeldatud tarkvara kasutada üheks aastaks.",
+      "Makse tähtaeg on kolmkümmend päeva iga arve kuupäevast.",
+      "Kumbki pool võib lepingu lõpetada kolmekuulise etteteatamisega.",
+      "Lepingu muudatused kehtivad üksnes kirjalikult.",
+      "Tarnija hoiab teenuse tööpäevadel kättesaadavana.",
+      "Mõlemad pooled hoiavad saladuses selle, mida teineteise kohta teada saavad.",
+      "Kohaldatakse Austria õigust ja kohtualluvus on Viinis.",
+      "Tarnija säilitab kliendi andmete varukoopiat kolmkümmend päeva.",
+      "Kasutajatoe päringutele vastatakse ühe tööpäeva jooksul.",
+      "Klient nimetab ühe inimese, kes tohib muudatusi kinnitada.",
+      "Hinnad kehtivad esimesel aastal ja need vaadatakse üle igal sügisel.",
+      "Kumbki pool ei tohi lepingut ilma nõusolekuta kolmandale isikule anda.",
+      "Lisa loetleb hõlmatud tarkvara ja versiooni, millest alates see kehtib.",
+      "Käesolev leping asendab kõik varasemad poolte vahelised kokkulepped."
+    ]
+  },
+  "invoice": {
+    "number": "Arve 2026-014",
+    "issued": "Väljastatud 12. juuni 2026",
+    "due": "Tasuda 30 päeva jooksul",
+    "billed_to": "Maksja",
+    "subtotal": "Vahesumma",
+    "vat": "Käibemaks 20%",
+    "amount_due": "Tasumisele kuulub",
+    "thanks": "Täname koostöö eest.",
+    "quantity": "Kogus",
+    "unit_price": "Ühiku hind"
+  },
+  "contacts": {
+    "headers": [
+      "Nimi",
+      "Tiim",
+      "E-post",
+      "Telefon"
+    ],
+    "roles": [
+      "Disain",
+      "Kasutajatugi",
+      "Müük",
+      "Arendus"
+    ]
+  },
+  "files": {
+    "text": "Kvartaliaruanne",
+    "sheet": "Eelarve",
+    "slides": "Projektiplaan",
+    "word": "Leping",
+    "cells": "Müüginumbrid",
+    "deck": "Meeskonnapäev",
+    "paper": "Arve",
+    "rows": "Kontaktid",
+    "notes": "Märkmed"
+  },
+  "fillers": {
+    "meeting": "Koosoleku märkmed",
+    "letter": "Kiri üürileandjale",
+    "travel": "Reisiplaan",
+    "reading": "Lugemisnimekiri",
+    "household": "Kodune eelarve",
+    "hours": "Töötunnid",
+    "stocktake": "Inventuur",
+    "kickoff": "Projekti algus",
+    "course": "Koolituse slaidid",
+    "lease": "Üürileping",
+    "resume": "Elulookirjeldus",
+    "application": "Avaldus",
+    "expenses": "Kulud",
+    "inventory": "Laoseis",
+    "review": "Kvartali ülevaade",
+    "ticket": "Pilet",
+    "warranty": "Garantii",
+    "manual": "Kasutusjuhend"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "language": "de",
+  "report": {
+    "title": "Quartalsbericht",
+    "lead": "Das Team hat alle Ziele des zweiten Quartals erreicht, und die neue Version ist pünktlich erschienen.",
+    "sections": [
+      [
+        "Das Wichtigste",
+        [
+          "Die Kosten blieben unter dem Budget, und zwei neue Partner sind zum Projekt gestoßen.",
+          "Die neue Version erreichte in der ersten Woche mehr Menschen als die letzte in einem Monat.",
+          "Der Support beantwortete neun von zehn Anfragen noch am selben Tag."
+        ]
+      ],
+      [
+        "Kosten und Budget",
+        [
+          "Die Ausgaben für Software stiegen mit den neuen Lizenzen, die Reisekosten sanken erneut.",
+          "Die Hardware wurde einmal ersetzt, der Support blieb das ganze Quartal über stabil.",
+          "Zwei Server sind ohne einen Tag Ausfall zum neuen Anbieter umgezogen."
+        ]
+      ],
+      [
+        "Nächstes Quartal",
+        [
+          "Die Version im September ist die letzte für dieses Jahr.",
+          "Zwei Stellen im Support sind offen, eine im Design.",
+          "Der Umzug ins neue Büro ist für November geplant und budgetiert."
+        ]
+      ],
+      [
+        "Das Team",
+        [
+          "An der Version arbeiteten sechs Personen, zwei davon neu in diesem Jahr.",
+          "Die Urlaubsvertretung wurde im April geregelt und hat den ganzen Sommer über gehalten.",
+          "Alle haben die Schulung absolviert, die die neue Lizenz verlangt."
+        ]
+      ],
+      [
+        "Risiken",
+        [
+          "Der Umzug im November ist der einzige Termin, der sich nicht verschieben lässt.",
+          "Ein Lieferant hat die neuen Bedingungen noch nicht unterschrieben; wir haken nach.",
+          "Die Hostingkosten steigen im Januar, wenn der Vertrag nicht vorzeitig verlängert wird."
+        ]
+      ]
+    ],
+    "closing": "Das nächste Treffen findet Ende Juli statt.",
+    "sheets": [
+      "Übersicht",
+      "Kosten"
+    ],
+    "item": "Position",
+    "total": "Gesamt",
+    "periods": [
+      "Jan",
+      "Feb",
+      "Mär",
+      "Apr",
+      "Mai",
+      "Jun"
+    ],
+    "rows": [
+      "Software",
+      "Reisen",
+      "Hardware",
+      "Marketing",
+      "Support",
+      "Schulung",
+      "Lizenzen",
+      "Hosting",
+      "Veranstaltungen",
+      "Büro",
+      "Cloud",
+      "Personalsuche",
+      "Recht",
+      "Versicherung",
+      "Verpflegung",
+      "Versand",
+      "Werbung",
+      "Beratung",
+      "Wartung",
+      "Nebenkosten",
+      "Ausstattung",
+      "Abonnements",
+      "Telefonie",
+      "Internet",
+      "Sicherheit",
+      "Backups",
+      "Domains",
+      "Zertifikate",
+      "Druck",
+      "Büromaterial",
+      "Porto",
+      "Reinigung",
+      "Reparaturen",
+      "Möbel",
+      "Lager",
+      "Bankgebühren",
+      "Mitgliedschaften",
+      "Konferenzen",
+      "Übersetzung",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Projektplan",
+        [
+          "Ziele für das Quartal",
+          "Budget und Kosten",
+          "Nächste Schritte"
+        ]
+      ],
+      [
+        "Zeitplan",
+        [
+          "Version im Juni",
+          "Rückblick im Juli",
+          "Planung im August"
+        ]
+      ],
+      [
+        "Team",
+        [
+          "Zwei neue Partner",
+          "Support in drei Sprachen",
+          "Schulung im Herbst"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Dienstleistungsvertrag",
+    "lead": "Dieser Vertrag wird zwischen den beiden unten genannten Parteien geschlossen.",
+    "clauses": [
+      "Der Anbieter stellt die im Anhang beschriebene Software für ein Jahr bereit.",
+      "Die Zahlung ist innerhalb von dreißig Tagen nach Rechnungsstellung fällig.",
+      "Beide Parteien können den Vertrag mit einer Frist von drei Monaten kündigen.",
+      "Änderungen dieses Vertrags bedürfen der Schriftform.",
+      "Der Anbieter hält den Dienst an Werktagen verfügbar.",
+      "Beide Parteien behandeln vertraulich, was sie voneinander erfahren.",
+      "Es gilt österreichisches Recht; Gerichtsstand ist Wien.",
+      "Der Anbieter bewahrt eine Sicherung der Daten des Kunden dreißig Tage lang auf.",
+      "Supportanfragen werden innerhalb eines Werktags beantwortet.",
+      "Der Kunde benennt eine Person, die Änderungen freigeben darf.",
+      "Die Preise gelten im ersten Jahr und werden jeden Herbst überprüft.",
+      "Keine Partei darf diesen Vertrag ohne Zustimmung an Dritte weitergeben.",
+      "Der Anhang nennt die erfasste Software und die Version, ab der sie gilt.",
+      "Dieser Vertrag ersetzt alle früheren Vereinbarungen zwischen den Parteien."
+    ]
+  },
+  "invoice": {
+    "number": "Rechnung 2026-014",
+    "issued": "Ausgestellt am 12. Juni 2026",
+    "due": "Zahlbar innerhalb von 30 Tagen",
+    "billed_to": "Rechnung an",
+    "subtotal": "Zwischensumme",
+    "vat": "USt. 20%",
+    "amount_due": "Zahlbetrag",
+    "thanks": "Vielen Dank für Ihren Auftrag.",
+    "quantity": "Menge",
+    "unit_price": "Einzelpreis"
+  },
+  "contacts": {
+    "headers": [
+      "Name",
+      "Team",
+      "E-Mail",
+      "Telefon"
+    ],
+    "roles": [
+      "Design",
+      "Support",
+      "Vertrieb",
+      "Entwicklung"
+    ]
+  },
+  "files": {
+    "text": "Quartalsbericht",
+    "sheet": "Budget",
+    "slides": "Projektplan",
+    "word": "Vertrag",
+    "cells": "Umsatzzahlen",
+    "deck": "Teamtreffen",
+    "paper": "Rechnung",
+    "rows": "Kontakte",
+    "notes": "Notizen"
+  },
+  "fillers": {
+    "meeting": "Besprechungsnotizen",
+    "letter": "Brief an den Vermieter",
+    "travel": "Reiseplan",
+    "reading": "Leseliste",
+    "household": "Haushaltsbudget",
+    "hours": "Arbeitszeiten",
+    "stocktake": "Inventur",
+    "kickoff": "Auftakt",
+    "course": "Kursfolien",
+    "lease": "Mietvertrag",
+    "resume": "Lebenslauf",
+    "application": "Bewerbung",
+    "expenses": "Ausgaben",
+    "inventory": "Bestand",
+    "review": "Quartalsrückblick",
+    "ticket": "Ticket",
+    "warranty": "Garantie",
+    "manual": "Anleitung"
+  }
+}

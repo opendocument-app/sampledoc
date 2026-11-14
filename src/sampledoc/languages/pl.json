@@ -1,0 +1,209 @@
+{
+  "language": "pl",
+  "report": {
+    "title": "Raport kwartalny",
+    "lead": "Zespół osiągnął wszystkie cele drugiego kwartału, a nowa wersja ukazała się na czas.",
+    "sections": [
+      [
+        "Najważniejsze",
+        [
+          "Koszty pozostały poniżej budżetu, a do projektu dołączyło dwóch nowych partnerów.",
+          "Nowa wersja dotarła w pierwszym tygodniu do większej liczby osób niż poprzednia w miesiąc.",
+          "Wsparcie odpowiedziało na dziewięć z dziesięciu zgłoszeń tego samego dnia."
+        ]
+      ],
+      [
+        "Koszty i budżet",
+        [
+          "Wydatki na oprogramowanie wzrosły wraz z nowymi licencjami, a koszty podróży znów spadły.",
+          "Sprzęt wymieniono raz, a wsparcie było stabilne przez cały kwartał.",
+          "Dwa serwery przeniesiono do nowego dostawcy bez ani jednego dnia przestoju."
+        ]
+      ],
+      [
+        "Następny kwartał",
+        [
+          "Wersja z września jest ostatnią zaplanowaną w tym roku.",
+          "Otwarte są dwa etaty we wsparciu i jeden w dziale projektowym.",
+          "Przeprowadzka biura wypada w listopadzie i ma już budżet."
+        ]
+      ],
+      [
+        "Ludzie",
+        [
+          "Nad wersją pracowało sześć osób, z czego dwie dołączyły w tym roku.",
+          "Zastępstwa urlopowe ustalono w kwietniu i utrzymały się przez całe lato.",
+          "Wszyscy przeszli szkolenie wymagane przez nową licencję."
+        ]
+      ],
+      [
+        "Ryzyka",
+        [
+          "Przeprowadzka w listopadzie to jedyny termin, który nie może się przesunąć.",
+          "Jeden dostawca nie podpisał jeszcze nowych warunków i jest ponaglany.",
+          "Koszty hostingu wzrosną w styczniu, jeśli umowa nie zostanie odnowiona wcześniej."
+        ]
+      ]
+    ],
+    "closing": "Następne spotkanie odbędzie się pod koniec lipca.",
+    "sheets": [
+      "Przegląd",
+      "Koszty"
+    ],
+    "item": "Pozycja",
+    "total": "Razem",
+    "periods": [
+      "sty",
+      "lut",
+      "mar",
+      "kwi",
+      "maj",
+      "cze"
+    ],
+    "rows": [
+      "Oprogramowanie",
+      "Podróże",
+      "Sprzęt",
+      "Marketing",
+      "Wsparcie",
+      "Szkolenia",
+      "Licencje",
+      "Hosting",
+      "Wydarzenia",
+      "Biuro",
+      "Chmura",
+      "Rekrutacja",
+      "Prawo",
+      "Ubezpieczenie",
+      "Catering",
+      "Wysyłka",
+      "Reklama",
+      "Doradztwo",
+      "Utrzymanie",
+      "Media",
+      "Wyposażenie",
+      "Subskrypcje",
+      "Telefonia",
+      "Internet",
+      "Bezpieczeństwo",
+      "Kopie zapasowe",
+      "Domeny",
+      "Certyfikaty",
+      "Druk",
+      "Artykuły biurowe",
+      "Opłaty pocztowe",
+      "Sprzątanie",
+      "Naprawy",
+      "Meble",
+      "Magazyn",
+      "Opłaty bankowe",
+      "Składki członkowskie",
+      "Konferencje",
+      "Tłumaczenia",
+      "Projektowanie"
+    ],
+    "slides": [
+      [
+        "Plan projektu",
+        [
+          "Cele na kwartał",
+          "Budżet i koszty",
+          "Kolejne kroki"
+        ]
+      ],
+      [
+        "Harmonogram",
+        [
+          "Wersja w czerwcu",
+          "Podsumowanie w lipcu",
+          "Planowanie w sierpniu"
+        ]
+      ],
+      [
+        "Zespół",
+        [
+          "Dwóch nowych partnerów",
+          "Wsparcie w trzech językach",
+          "Szkolenia jesienią"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Umowa o świadczenie usług",
+    "lead": "Niniejsza umowa zostaje zawarta między dwiema stronami wymienionymi poniżej.",
+    "clauses": [
+      "Dostawca udostępnia oprogramowanie opisane w załączniku na okres roku.",
+      "Płatność jest wymagalna w terminie trzydziestu dni od daty każdej faktury.",
+      "Każda ze stron może rozwiązać umowę z trzymiesięcznym wypowiedzeniem.",
+      "Zmiany umowy wymagają formy pisemnej.",
+      "Dostawca utrzymuje dostępność usługi w dni robocze.",
+      "Obie strony traktują jako poufne to, czego dowiedzą się o sobie nawzajem.",
+      "Obowiązuje prawo austriackie, a sądem właściwym jest sąd w Wiedniu.",
+      "Dostawca przechowuje kopię danych klienta przez trzydzieści dni.",
+      "Zgłoszenia do wsparcia są rozpatrywane w ciągu jednego dnia roboczego.",
+      "Klient wskazuje jedną osobę uprawnioną do zatwierdzania zmian.",
+      "Ceny obowiązują przez pierwszy rok i są weryfikowane każdej jesieni.",
+      "Żadna ze stron nie może przenieść umowy na osobę trzecią bez zgody.",
+      "Załącznik wymienia oprogramowanie objęte umową oraz wersję początkową.",
+      "Niniejsza umowa zastępuje wszystkie wcześniejsze ustalenia stron."
+    ]
+  },
+  "invoice": {
+    "number": "Faktura 2026-014",
+    "issued": "Wystawiono 12 czerwca 2026",
+    "due": "Płatne w ciągu 30 dni",
+    "billed_to": "Nabywca",
+    "subtotal": "Wartość netto",
+    "vat": "VAT 20%",
+    "amount_due": "Do zapłaty",
+    "thanks": "Dziękujemy za współpracę.",
+    "quantity": "Ilość",
+    "unit_price": "Cena jedn."
+  },
+  "contacts": {
+    "headers": [
+      "Imię i nazwisko",
+      "Dział",
+      "E-mail",
+      "Telefon"
+    ],
+    "roles": [
+      "Projektowanie",
+      "Wsparcie",
+      "Sprzedaż",
+      "Rozwój"
+    ]
+  },
+  "files": {
+    "text": "Raport kwartalny",
+    "sheet": "Budżet",
+    "slides": "Plan projektu",
+    "word": "Umowa",
+    "cells": "Wyniki sprzedaży",
+    "deck": "Spotkanie zespołu",
+    "paper": "Faktura",
+    "rows": "Kontakty",
+    "notes": "Notatki"
+  },
+  "fillers": {
+    "meeting": "Notatki ze spotkania",
+    "letter": "List do właściciela mieszkania",
+    "travel": "Plan podróży",
+    "reading": "Lista lektur",
+    "household": "Budżet domowy",
+    "hours": "Godziny",
+    "stocktake": "Inwentaryzacja",
+    "kickoff": "Spotkanie startowe",
+    "course": "Slajdy kursu",
+    "lease": "Umowa najmu",
+    "resume": "CV",
+    "application": "Podanie",
+    "expenses": "Wydatki",
+    "inventory": "Stan magazynu",
+    "review": "Przegląd kwartalny",
+    "ticket": "Bilet",
+    "warranty": "Gwarancja",
+    "manual": "Instrukcja"
+  }
+}

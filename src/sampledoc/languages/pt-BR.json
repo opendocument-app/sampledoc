@@ -1,0 +1,209 @@
+{
+  "language": "pt-BR",
+  "report": {
+    "title": "Relatório trimestral",
+    "lead": "A equipe alcançou todas as metas do segundo trimestre e a nova versão saiu no prazo.",
+    "sections": [
+      [
+        "Destaques",
+        [
+          "Os custos ficaram abaixo do orçamento e dois novos parceiros entraram no projeto.",
+          "A nova versão alcançou mais pessoas na primeira semana do que a anterior em um mês.",
+          "O suporte respondeu nove de cada dez chamados no mesmo dia."
+        ]
+      ],
+      [
+        "Custos e orçamento",
+        [
+          "Os gastos com software subiram com as novas licenças, enquanto as viagens caíram de novo.",
+          "O hardware foi substituído uma vez e o suporte se manteve estável no trimestre.",
+          "Dois servidores migraram para o novo provedor sem um dia de indisponibilidade."
+        ]
+      ],
+      [
+        "Próximo trimestre",
+        [
+          "A versão de setembro é a última prevista para este ano.",
+          "Há duas vagas no suporte e uma no design.",
+          "A mudança de escritório é em novembro e já tem orçamento."
+        ]
+      ],
+      [
+        "As pessoas",
+        [
+          "Seis pessoas trabalharam na versão, duas delas novas este ano.",
+          "A escala de férias foi definida em abril e valeu o verão todo.",
+          "Todos fizeram o treinamento que a nova licença exige."
+        ]
+      ],
+      [
+        "Riscos",
+        [
+          "A mudança de novembro é a única data que não pode atrasar.",
+          "Um fornecedor ainda não assinou as novas condições.",
+          "A hospedagem sobe em janeiro se o contrato não for renovado antes."
+        ]
+      ]
+    ],
+    "closing": "A próxima reunião é no fim de julho.",
+    "sheets": [
+      "Visão geral",
+      "Custos"
+    ],
+    "item": "Item",
+    "total": "Total",
+    "periods": [
+      "Jan",
+      "Fev",
+      "Mar",
+      "Abr",
+      "Mai",
+      "Jun"
+    ],
+    "rows": [
+      "Software",
+      "Viagens",
+      "Hardware",
+      "Marketing",
+      "Suporte",
+      "Treinamento",
+      "Licenças",
+      "Hospedagem",
+      "Eventos",
+      "Escritório",
+      "Nuvem",
+      "Recrutamento",
+      "Jurídico",
+      "Seguros",
+      "Buffet",
+      "Frete",
+      "Publicidade",
+      "Consultoria",
+      "Manutenção",
+      "Água e luz",
+      "Equipamentos",
+      "Assinaturas",
+      "Telefonia",
+      "Internet",
+      "Segurança",
+      "Backups",
+      "Domínios",
+      "Certificados",
+      "Impressão",
+      "Papelaria",
+      "Correios",
+      "Limpeza",
+      "Reparos",
+      "Móveis",
+      "Armazenamento",
+      "Tarifas bancárias",
+      "Associações",
+      "Conferências",
+      "Tradução",
+      "Design"
+    ],
+    "slides": [
+      [
+        "Plano do projeto",
+        [
+          "Metas do trimestre",
+          "Orçamento e custos",
+          "Próximos passos"
+        ]
+      ],
+      [
+        "Cronograma",
+        [
+          "Versão em junho",
+          "Revisão em julho",
+          "Planejamento em agosto"
+        ]
+      ],
+      [
+        "Equipe",
+        [
+          "Dois novos parceiros",
+          "Suporte em três idiomas",
+          "Treinamento no outono"
+        ]
+      ]
+    ]
+  },
+  "contract": {
+    "title": "Contrato de serviço",
+    "lead": "Este contrato é celebrado entre as duas partes indicadas abaixo.",
+    "clauses": [
+      "O fornecedor disponibiliza por um ano o software descrito no anexo.",
+      "O pagamento vence em trinta dias a contar de cada fatura.",
+      "Qualquer parte pode encerrar o contrato com aviso prévio de três meses.",
+      "Alterações só são válidas por escrito.",
+      "O fornecedor mantém o serviço disponível em dias úteis.",
+      "As partes tratam como confidencial o que souberem uma da outra.",
+      "Aplica-se a lei austríaca e o foro competente é o de Viena.",
+      "O fornecedor mantém uma cópia dos dados do cliente por trinta dias.",
+      "Os chamados de suporte são respondidos em um dia útil.",
+      "O cliente indica uma pessoa autorizada a aprovar alterações.",
+      "Os preços ficam fixos no primeiro ano e são revisados todo outono.",
+      "Nenhuma parte pode transferir este contrato a terceiros sem consentimento.",
+      "O anexo lista o software abrangido e a versão inicial coberta.",
+      "Este contrato substitui qualquer acordo anterior entre as partes."
+    ]
+  },
+  "invoice": {
+    "number": "Fatura 2026-014",
+    "issued": "Emitida em 12 de junho de 2026",
+    "due": "Vence em 30 dias",
+    "billed_to": "Faturado para",
+    "subtotal": "Subtotal",
+    "vat": "Impostos 20%",
+    "amount_due": "Valor a pagar",
+    "thanks": "Obrigado pela preferência.",
+    "quantity": "Qtd",
+    "unit_price": "Preço unit."
+  },
+  "contacts": {
+    "headers": [
+      "Nome",
+      "Equipe",
+      "E-mail",
+      "Telefone"
+    ],
+    "roles": [
+      "Design",
+      "Suporte",
+      "Vendas",
+      "Engenharia"
+    ]
+  },
+  "files": {
+    "text": "Relatório trimestral",
+    "sheet": "Orçamento",
+    "slides": "Plano do projeto",
+    "word": "Contrato",
+    "cells": "Números de vendas",
+    "deck": "Reunião da equipe",
+    "paper": "Fatura",
+    "rows": "Contatos",
+    "notes": "Notas"
+  },
+  "fillers": {
+    "meeting": "Notas da reunião",
+    "letter": "Carta ao locador",
+    "travel": "Plano de viagem",
+    "reading": "Lista de leitura",
+    "household": "Orçamento doméstico",
+    "hours": "Horas",
+    "stocktake": "Balanço",
+    "kickoff": "Kickoff",
+    "course": "Slides do curso",
+    "lease": "Contrato de aluguel",
+    "resume": "Currículo",
+    "application": "Inscrição",
+    "expenses": "Despesas",
+    "inventory": "Estoque",
+    "review": "Revisão trimestral",
+    "ticket": "Passagem",
+    "warranty": "Garantia",
+    "manual": "Manual"
+  }
+}
