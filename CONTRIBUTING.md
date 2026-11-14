@@ -24,7 +24,8 @@ src/sampledoc/
   names.py                display names, search word, screenshot-names.json
   cli.py                  the `sampledoc` command
 tests/
-  golden.json             SHA-256 of every sample file
+  golden.json             a fingerprint of every sample file
+  fingerprint.py          how they are computed, and regenerated
 ```
 
 ## Adding a language
@@ -43,17 +44,14 @@ shoulder, not copy that has to sell anything. No real people or companies.
 
 ## Changing the output
 
-Every sample's bytes are pinned in `tests/golden.json`. Apps take screenshots
-of these files, so any change to them should be on purpose. When it is,
-regenerate the hashes and mention the change in `CHANGELOG.md`:
+Every sample is pinned in `tests/golden.json` (a hash of its bytes, or for a
+zip of every entry's metadata and uncompressed contents - see
+`tests/fingerprint.py`). Apps take screenshots of these files, so any change to
+them should be on purpose. When it is, regenerate the fingerprints and mention
+the change in `CHANGELOG.md`:
 
 ```sh
-uv run python -c "
-import hashlib, json, sampledoc
-golden = {sampledoc.file_name(s, l): hashlib.sha256(sampledoc.document(s, l)).hexdigest()
-          for l in sampledoc.languages() for s in sampledoc.SAMPLES}
-open('tests/golden.json', 'w').write(json.dumps(golden, indent=1, sort_keys=True))
-"
+uv run python tests/fingerprint.py
 ```
 
 ## Releasing

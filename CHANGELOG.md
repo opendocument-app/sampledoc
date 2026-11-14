@@ -27,6 +27,9 @@ OpenDocument.droid and OpenDocument.ios.
 
 - Byte-for-byte identical to what OpenDocument.droid's script wrote at
   `f8b0a37d`, and, for its nine languages, to OpenDocument.ios at `f7f7a33`.
+- Zip entries record a fixed creating system, so Windows writes the same
+  package contents as macOS and Linux. Compressed bytes still depend on the
+  zlib Python is built with (zlib-ng on Python 3.14 for Windows).
 - `screenshot-names.json` now always nests languages under `"languages"` (the
   Android layout). The iOS script wrote them at the top level.
 

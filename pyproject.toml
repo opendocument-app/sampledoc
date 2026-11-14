@@ -51,6 +51,7 @@ include = ["src", "tests", "README.md", "CHANGELOG.md", "LICENSE"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 addopts = ["--import-mode=importlib"]
+pythonpath = ["tests"]
 
 [tool.ruff]
 line-length = 110

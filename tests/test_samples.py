@@ -1,4 +1,3 @@
-import hashlib
 import io
 import json
 import re
@@ -9,6 +8,7 @@ from xml.etree import ElementTree
 import pytest
 
 import sampledoc
+from fingerprint import fingerprint
 from sampledoc import SAMPLES, document, file_name, languages
 from sampledoc.cli import main
 from sampledoc.names import FILLERS, manifest, query
@@ -21,11 +21,12 @@ EVERY = [(sample, language) for language in languages() for sample in SAMPLES]
 
 @pytest.mark.parametrize(("sample", "language"), EVERY)
 def test_matches_golden(sample, language):
-    """The bytes the original screenshot script wrote. A change here is a change
-    to every app's screenshots: regenerate golden.json on purpose, not to pass."""
+    """What the original screenshot script wrote (see fingerprint.py). A change
+    here is a change to every app's screenshots: regenerate golden.json on
+    purpose, not to pass."""
     name = file_name(sample, language)
-    assert name in GOLDEN, f"{name} has no golden hash - new samples need one"
-    assert hashlib.sha256(document(sample, language)).hexdigest() == GOLDEN[name]
+    assert name in GOLDEN, f"{name} has no golden fingerprint - new samples need one"
+    assert fingerprint(document(sample, language)) == GOLDEN[name]
 
 
 def test_reproducible():

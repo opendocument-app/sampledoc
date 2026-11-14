@@ -96,10 +96,15 @@ sampledoc.manifest({"de-DE": "de"})  # what goes into screenshot-names.json
 
 ## Reproducibility
 
-The same version of `sampledoc` always writes the same bytes: zip entries carry
-a fixed 1980-01-01 timestamp and fixed permissions, and nothing depends on the
-clock, the platform or the locale. The test suite pins a SHA-256 of every file,
-so a change to the output is always a deliberate one - and is called out in the
+The same version of `sampledoc` always writes the same documents: zip entries
+carry a fixed 1980-01-01 timestamp, fixed permissions and a fixed creating
+system, and nothing depends on the clock, the platform or the locale. The
+compressed bytes inside `.odt`/`.docx`/... packages are byte-for-byte identical
+as long as Python uses the same zlib; Python 3.14 on Windows (and some Linux
+distributions) ship zlib-ng, which compresses the same contents differently.
+
+The test suite pins a fingerprint of every file, so a change to the output is
+always a deliberate one - and is called out in the
 [changelog](CHANGELOG.md), since it changes every screenshot taken of it.
 
 If you need stable output across upgrades, pin the version.
