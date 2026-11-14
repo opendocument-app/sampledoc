@@ -93,14 +93,17 @@ def table(words: dict, columns: int = 4, rows: int = 0, scale: int = 1) -> tuple
 def zipped(parts: list[tuple[str, str, bool]]) -> bytes:
     """A zip of (name, text, stored) parts in the order given, reproducibly.
 
-    Every entry carries the same date and permissions, so the archive depends on
-    nothing but its contents.
+    Every entry carries the same date, permissions and creating system, so the
+    archive depends on nothing but its contents - not the clock, not the platform.
     """
     out = io.BytesIO()
     with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as archive:
         for name, text, stored in parts:
             info = zipfile.ZipInfo(name, date_time=EPOCH)
             info.external_attr = 0o644 << 16
+            # ZipInfo records the OS it was made on (0 on Windows, 3 elsewhere),
+            # and that byte would make the same samples differ by platform
+            info.create_system = 3
             archive.writestr(info, text, compress_type=zipfile.ZIP_STORED if stored else zipfile.ZIP_DEFLATED)
 
     return out.getvalue()

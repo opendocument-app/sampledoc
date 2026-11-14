@@ -83,15 +83,15 @@ Languages: `en`, `cs`, `de`, `es`, `et`, `fr`, `hi`, `it`, `ja`, `pl`, `pt-BR`,
 ```python
 import sampledoc
 
-sampledoc.languages()                    # ('en', 'cs', 'de', ...)
-sampledoc.SAMPLES                        # {'text': Sample(extension='odt', ...), ...}
+sampledoc.languages()  # ('en', 'cs', 'de', ...)
+sampledoc.SAMPLES  # {'text': Sample(extension='odt', ...), ...}
 
 data = sampledoc.document("text", "de")  # bytes of sample-text-de.odt
 sampledoc.generate("out/", languages=["en"], samples=["text", "paper"])  # -> [Path, ...]
 
-sampledoc.file_names("de")               # {'text': 'Quartalsbericht', ...}
-sampledoc.query("de")                    # the word to search the report for
-sampledoc.manifest({"de-DE": "de"})      # what goes into screenshot-names.json
+sampledoc.file_names("de")  # {'text': 'Quartalsbericht', ...}
+sampledoc.query("de")  # the word to search the report for
+sampledoc.manifest({"de-DE": "de"})  # what goes into screenshot-names.json
 ```
 
 ## Reproducibility

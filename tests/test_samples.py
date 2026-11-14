@@ -14,7 +14,7 @@ from sampledoc.cli import main
 from sampledoc.names import FILLERS, manifest, query
 from sampledoc.pdf import spellable
 
-GOLDEN = json.loads((Path(__file__).parent / "golden.json").read_text())
+GOLDEN = json.loads((Path(__file__).parent / "golden.json").read_text(encoding="utf-8"))
 
 EVERY = [(sample, language) for language in languages() for sample in SAMPLES]
 
@@ -117,4 +117,6 @@ def test_cli(tmp_path):
         "sample-text-en.odt",
         "screenshot-names.json",
     ]
-    assert json.loads((out / "screenshot-names.json").read_text())["locales"] == {"en-US": "en"}
+    assert json.loads((out / "screenshot-names.json").read_text(encoding="utf-8"))["locales"] == {
+        "en-US": "en"
+    }
