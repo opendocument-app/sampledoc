@@ -23,6 +23,9 @@ src/sampledoc/
   plain.py                .csv .txt
   names.py                display names, search word, screenshot-names.json
   cli.py                  the `sampledoc` command
+docs/images/              the README's sample renders
+scripts/render-readme-images.sh
+                          re-renders them with LibreOffice
 tests/
   golden.json             a fingerprint of every sample file
   fingerprint.py          how they are computed, and regenerated
@@ -53,6 +56,9 @@ the change in `CHANGELOG.md`:
 ```sh
 uv run python tests/fingerprint.py
 ```
+
+If the change shows on a first page, re-render the README's images too (needs
+LibreOffice): `scripts/render-readme-images.sh`.
 
 ## Releasing
 

@@ -17,6 +17,24 @@ It was built to give app-store screenshots of
 in the language of each store listing, and is just as useful as test fixtures
 for anything that opens office files.
 
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/opendocument-app/sampledoc/main/docs/images/sample-text-en.png" width="200" alt="The quarterly report, sample-text-en.odt"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/opendocument-app/sampledoc/main/docs/images/sample-sheet-en.png" width="200" alt="The budget spreadsheet, sample-sheet-en.ods"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/opendocument-app/sampledoc/main/docs/images/sample-word-de.png" width="200" alt="The service agreement in German, sample-word-de.docx"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/opendocument-app/sampledoc/main/docs/images/sample-paper-en.png" width="200" alt="The invoice, sample-paper-en.pdf"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>sample-text-en.odt</code></td>
+    <td align="center"><code>sample-sheet-en.ods</code></td>
+    <td align="center"><code>sample-word-de.docx</code></td>
+    <td align="center"><code>sample-paper-en.pdf</code></td>
+  </tr>
+</table>
+
+<sub>First pages as rendered by LibreOffice. Regenerate with
+<code>scripts/render-readme-images.sh</code>.</sub>
+
 ## Install
 
 ```sh
